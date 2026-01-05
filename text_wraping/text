@@ -3,7 +3,7 @@
        in profile Scroll down and have their access token; in that write mode, create a token.
 
       - First, we should run this in cmd using the command 
-         "setx HF_API_TOKEN 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."   
+         "setx HF_API_TOKEN token_id."   
         After opening the Visual Studio platform in that environment, update the token. We have to run the code; it can change the token and run the file.
 
 2. We have to download the 
@@ -32,6 +32,7 @@
 
 
    
+
 
 
 
